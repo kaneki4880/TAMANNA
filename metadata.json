@@ -1,0 +1,6 @@
+{
+  "name": "TAMANNA",
+  "description": "An elegant, interactive platform for booking table reservations and full venue rentals at high-end, interior-design-themed restaurants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
